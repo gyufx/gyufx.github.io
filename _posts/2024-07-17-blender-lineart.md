@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blender cartoon rendering"
-date:   202-07-17 06:00:00
+date:   2020-07-17 06:00:00
 categories: Blender
 tags: Blender NPR cartoon
 author: Gyu
